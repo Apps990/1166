@@ -1,0 +1,40 @@
+body{background-color: blue;}
+@media only screen and (min-width: 768px) {
+.full-width-img {
+    margin: auto;
+    width: 90%;
+    }}
+{body{background-color: red;}}
+    header{
+    min-height: 100px;
+    background-color: olive;
+    }
+    section{
+    padding: 10px;
+    }
+    #inhoudelf{
+        width: 40%;
+        min-height: 150px;
+        background-color: purple;
+        display: inline-block;
+        }
+        #inhoudtwaalf{
+            width: 40%;
+            min-height: 150px;
+            background-color: purple;
+            display: inline-block;
+            }
+    #inhoudeen{
+    width: 40%;
+    height: 250px;
+    background-color: pink;
+    display: inline-block;
+    
+}
+    #inhoudtwee{
+    width: 40%;
+    height: 250px;
+    background-color: pink;
+    display: inline-block;
+    }
+    
